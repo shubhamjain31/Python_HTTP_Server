@@ -4,6 +4,7 @@ Suppose you and your friend are using same local network. You have some files th
 
 By Using SimpleHTTPServer, you can easily share your files to your friends who are in the same network. In this tutorial we will learn about basics of Python SimpleHTTPServer so that you can use it your day to day life.
 
+You can learn more from this website: https://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver
 
 
 You can use below command to run python http server in Python 3.
