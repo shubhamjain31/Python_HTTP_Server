@@ -1,0 +1,15 @@
+#creating a python http server
+
+Suppose you and your friend are using same local network. You have some files that you want to share with your friend. But both of you have portable hard disks so that you can copy those movies to that portable hard disks and give it to your friend. Then Python SimpleHTTPServer can help you in this case.
+
+By Using SimpleHTTPServer, you can easily share your files to your friends who are in the same network. In this tutorial we will learn about basics of Python SimpleHTTPServer so that you can use it your day to day life.
+
+
+
+You can use below command to run python http server in Python 3.
+
+python -m http.server
+
+OR
+
+python -m http.server --bind=localhost
