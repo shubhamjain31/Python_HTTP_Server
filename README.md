@@ -1,6 +1,7 @@
 # Python_HTTP_Server. 
 
-This is a simple HTTP Server to serve files from directory.
+This is a simple HTTP Server to serve files from directory using Python SimpleHTTPServer.  
+Python SimpleHTTPServer module is a very handy tool. You can use Python SimpleHTTPServer to turn any directory into a simple HTTP web server.
 
 ***To run the server:***
 - Open a terminal window.
